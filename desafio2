@@ -1,0 +1,5 @@
+produtos = ("maçã", "pera", "panela","banana")
+
+for produto in produtos:
+    if produto[0] == "p":
+        print(f"produto {produto} esta em promoção")

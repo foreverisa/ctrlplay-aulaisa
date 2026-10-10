@@ -1,0 +1,6 @@
+for numero in [1, 2, 3, 4, 5]:
+    if numero == 3:
+     print("pulamos")
+    continue
+    print(numero)
+    

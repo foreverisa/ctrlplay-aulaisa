@@ -1,0 +1,8 @@
+nomes = ["alice", "carlos","maria"]
+
+for nome in nomes:
+  print(nome)
+  if nome == "carlos":
+    print("nome carlos encontrado")
+    break
+     

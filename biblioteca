@@ -1,0 +1,7 @@
+import random
+
+numero = random.randint(1,10)
+nome = random.choice(["ana", "bruno", "carla"])
+
+print("numero sorteado:", numero)
+print("nome sorteado:", nome)
